@@ -14,7 +14,7 @@ class Card extends React.Component {
       <section className={styles.component}>
         {title}
       </section>
-    )
+    );
   }
 }
 

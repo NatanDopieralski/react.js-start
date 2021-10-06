@@ -14,7 +14,7 @@ class App extends React.Component {
           <p>Interesting things I want to check out!</p>
         </List> */}
       </main>
-    )
+    );
   }
 }
 

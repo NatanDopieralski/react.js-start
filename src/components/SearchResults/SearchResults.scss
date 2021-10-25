@@ -2,7 +2,6 @@
 
 .component {
   flex-shrink: 0;
-  width: calc(33% - 12px);
   background: $color-light;
   margin: 0 $base-size $base-size 0;
   padding: ($base-size * 1.5);
@@ -11,7 +10,7 @@
   color: $color-dark;
 
   &:last-child {
-    margin: 0 0 $base-size 0; 
+    margin: 0 0 $base-size 0;
   }
 }
 
